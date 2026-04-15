@@ -1,11 +1,12 @@
 # Agent Instructions
 
-This repository includes project guidance beyond code.
+This project includes non-code guidance.
 
-## Where to find detailed guidance
-- See the uploaded project folder in the repository root.
-- Treat files in that folder as source-of-truth for process, product context, and documentation workflows.
+## Primary guidance location
+- Use files inside the project guidance folder in the repository root:
+  - `M-Платформа_Рабочая_Папка 2/`
 
-## Working preference
-- Follow these guidance files before making structural changes.
-- Keep edits simple and documented.
+## Working rules
+- Read relevant guidance before making changes.
+- Follow documented process, naming, and structure conventions.
+- Prefer small, well-documented edits.
